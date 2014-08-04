@@ -29,5 +29,5 @@ print "Yep, all those print statements you saw before? Those things between the 
 print "Python usually isn't too strict about data types, but there are some things you can't do."
 
 # Uncomment out the next line to get an error!
-#print "This line here will cause an error, because you can't add strings to numbers. This is Lesson Section #" + 1
+print "This line here will cause an error, because you can't add strings to numbers. This is Lesson Section #",1
 
