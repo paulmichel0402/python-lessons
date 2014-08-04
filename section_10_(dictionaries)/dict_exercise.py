@@ -1,7 +1,7 @@
 contacts = { 
-'Paul' : {'phone' : '434-989-4986', 'twitter': '@pauljmichel', 'github': '@paulmichel0402'},
+'Paul' : {'phone' : '434-555-5555', 'twitter': '@pauljmichel', 'github': '@paulmichel0402'},
 
-'Steph' : {'phone' : '703-338-4616', 'twitter' : '@nguyenist', 'github' : '@nguyenist'}
+'Steph' : {'phone' : '703-555-5555', 'twitter' : '@nguyenist', 'github' : '@nguyenist'}
 }
 
 for key, value in contacts.items():
